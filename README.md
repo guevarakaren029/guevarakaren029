@@ -2,7 +2,7 @@
 
 Data Analytics student at **TripleTen Bootcamp**.  
 Passionate about turning data into actionable insights and creating interactive dashboards and visualizations.  
-
+Aspiring Data Analyst seeking internship opportunities in Python and Business Analytics
 ---
 
 ## 🎓 Education
