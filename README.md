@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Karen Guevara
+## Data Analytics Student | Python & Data Visualization Enthusiast
 
-<!--
-**guevarakaren029/guevarakaren029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find my portfolio of projects showcasing data analysis, visualization, and web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### Vehicle Data Dashboard
+**Tools:** Python, Streamlit, Data Visualization  
+Web application developed to visualize vehicle sales data in the United States. Includes interactive charts to explore prices, types, and mileage.  
+[View Project](https://github.com/guevarakaren029/proyecto_triplet)
+
+### Chicago Taxi Data Analysis
+**Tools:** Python, Pandas, Seaborn, Data Analysis  
+Explored taxi trip data in Chicago, visualized trips per neighborhood, and performed hypothesis testing on rainy Saturdays’ impact.  
+[View Project](#)
+
+---
+
+## 🛠 Skills
+- Python
+- SQL
+- Excel
+- Data Analysis
+- Data Visualization
+
+---
+
+## 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/guevarakaren029) | [Email](mailto:your.email@example.com)
